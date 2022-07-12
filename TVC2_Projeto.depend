@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1657583620 source:/ice/Downloads/TVC2_Projeto/ListaDupla.cpp
+	<iostream>
+	<cstdlib>
+	"ListaDupla.h"
+
+1657562589 /ice/Downloads/TVC2_Projeto/ListaDupla.h
+	"NoDuplo.h"
+
+1559260937 /ice/Downloads/TVC2_Projeto/NoDuplo.h
+
+1657565730 source:/ice/Downloads/TVC2_Projeto/main.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+	"ListaCont.h"
+	"ListaDupla.h"
+
+1559261286 /ice/Downloads/TVC2_Projeto/PilhaEncad.h
+	"No.h"
+
+1559261250 /ice/Downloads/TVC2_Projeto/No.h
+
+1657562535 /ice/Downloads/TVC2_Projeto/ListaCont.h
+
+1559262898 source:/ice/Downloads/TVC2_Projeto/PilhaEncad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1657579658 source:/ice/Downloads/TVC2_Projeto/ListaCont.cpp
+	<iostream>
+	<cstdlib>
+	"ListaCont.h"
+
